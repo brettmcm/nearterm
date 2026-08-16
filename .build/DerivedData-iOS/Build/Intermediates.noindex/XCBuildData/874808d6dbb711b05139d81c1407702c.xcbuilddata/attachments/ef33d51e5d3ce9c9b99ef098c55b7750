@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/Nearterm Widgets-primary.dia",
+    "emit-module-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/Nearterm Widgets-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/Nearterm Widgets-primary-emit-module.dia",
+    "pch" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/Nearterm Widgets-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/Nearterm Widgets-primary.swiftdeps"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderFilter.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderFilter~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderItem.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderItem~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderRoute.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/ReminderRoute~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/WidgetSnapshot.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/WidgetSnapshot~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Widgets/NeartermWidgets.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/Nearterm.build/Debug-iphoneos/Nearterm Widgets.build/Objects-normal/arm64/NeartermWidgets~partial.swiftmodule"
+  }
+}

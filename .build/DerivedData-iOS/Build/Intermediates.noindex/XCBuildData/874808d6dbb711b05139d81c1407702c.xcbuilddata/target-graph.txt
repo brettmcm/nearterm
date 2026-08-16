@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Nearterm iOS' in project 'Nearterm'
+➜ Explicit dependency on target 'Nearterm Widgets' in project 'Nearterm'
+Target 'Nearterm Widgets' in project 'Nearterm' (no dependencies)

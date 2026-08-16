@@ -1,0 +1,89 @@
+{
+  "" : {
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/Nearterm-primary.dia",
+    "emit-module-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/Nearterm-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/Nearterm-primary-emit-module.dia",
+    "pch" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/Nearterm-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/Nearterm-primary.swiftdeps"
+  },
+  "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/NeartermApp.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/NeartermApp~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/ReminderPanel.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderPanel~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderFilter.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderFilter~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderItem.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderItem~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderRoute.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderRoute~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/ReminderStore.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/ReminderStore~partial.swiftmodule"
+  },
+  "/Users/brettmcm/Apps/Nearterm/Shared/WidgetSnapshot.swift" : {
+    "const-values" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.swiftconstvalues",
+    "dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.d",
+    "diagnostics" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.dia",
+    "index-unit-output-path" : "/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.o",
+    "llvm-bc" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.bc",
+    "object" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.o",
+    "swift-dependencies" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot.swiftdeps",
+    "swiftmodule" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData/Build/Intermediates.noindex/Nearterm.build/Debug/Nearterm.build/Objects-normal/arm64/WidgetSnapshot~partial.swiftmodule"
+  }
+}

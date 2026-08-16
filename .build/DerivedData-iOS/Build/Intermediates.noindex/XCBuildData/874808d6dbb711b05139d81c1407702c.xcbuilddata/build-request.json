@@ -1,0 +1,73 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "eca3d291f8f08ee1394ab129ee1f9e77fabefc4c0dbc08d8a25ef6d4af29b090"
+    }
+  ],
+  "containerPath" : "/Users/brettmcm/Apps/Nearterm/Nearterm.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos26.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Products",
+      "derivedDataPath" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS",
+      "indexDataStoreFolderPath" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/brettmcm/Apps/Nearterm/.build/DerivedData-iOS/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

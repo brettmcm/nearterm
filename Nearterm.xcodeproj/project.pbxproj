@@ -1,0 +1,693 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 71;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B001 /* NeartermApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F001 /* NeartermApp.swift */; };
+		B002 /* ReminderPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F002 /* ReminderPanel.swift */; };
+		B003 /* ReminderItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F003 /* ReminderItem.swift */; };
+		B004 /* ReminderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F004 /* ReminderFilter.swift */; };
+		B005 /* ReminderRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = F005 /* ReminderRoute.swift */; };
+		B006 /* WidgetSnapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F006 /* WidgetSnapshot.swift */; };
+		B007 /* ReminderStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F007 /* ReminderStore.swift */; };
+		B009 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F008 /* PrivacyInfo.xcprivacy */; };
+		B101 /* NeartermIOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F011 /* NeartermIOSApp.swift */; };
+		B102 /* IOSReminderPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F012 /* IOSReminderPanel.swift */; };
+		B103 /* ReminderItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F003 /* ReminderItem.swift */; };
+		B104 /* ReminderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F004 /* ReminderFilter.swift */; };
+		B105 /* ReminderRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = F005 /* ReminderRoute.swift */; };
+		B106 /* WidgetSnapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F006 /* WidgetSnapshot.swift */; };
+		B107 /* ReminderStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F007 /* ReminderStore.swift */; };
+		B108 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F020 /* Assets.xcassets */; };
+		B109 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F021 /* PrivacyInfo.xcprivacy */; };
+		B110 /* Nearterm.icon in Resources */ = {isa = PBXBuildFile; fileRef = F022 /* Nearterm.icon */; };
+		B111 /* MacAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F023 /* MacAssets.xcassets */; };
+		B112 /* Nearterm.icon in Resources */ = {isa = PBXBuildFile; fileRef = F022 /* Nearterm.icon */; };
+		B201 /* NeartermWidgets.swift in Sources */ = {isa = PBXBuildFile; fileRef = F031 /* NeartermWidgets.swift */; };
+		B202 /* ReminderItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F003 /* ReminderItem.swift */; };
+		B203 /* ReminderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F004 /* ReminderFilter.swift */; };
+		B204 /* ReminderRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = F005 /* ReminderRoute.swift */; };
+		B205 /* WidgetSnapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F006 /* WidgetSnapshot.swift */; };
+		B207 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F021 /* PrivacyInfo.xcprivacy */; };
+		B208 /* Nearterm Widgets.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = P003 /* Nearterm Widgets.appex */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B301 /* ReminderFilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F041 /* ReminderFilterTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		PX01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = PROJ /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = T003;
+			remoteInfo = "Nearterm Widgets";
+		};
+		PX02 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = PROJ /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = T002;
+			remoteInfo = "Nearterm iOS";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		CP01 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				B208 /* Nearterm Widgets.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		F001 /* NeartermApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeartermApp.swift; sourceTree = "<group>"; };
+		F002 /* ReminderPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderPanel.swift; sourceTree = "<group>"; };
+		F003 /* ReminderItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderItem.swift; sourceTree = "<group>"; };
+		F004 /* ReminderFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderFilter.swift; sourceTree = "<group>"; };
+		F005 /* ReminderRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderRoute.swift; sourceTree = "<group>"; };
+		F006 /* WidgetSnapshot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetSnapshot.swift; sourceTree = "<group>"; };
+		F007 /* ReminderStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderStore.swift; sourceTree = "<group>"; };
+		F008 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		F011 /* NeartermIOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeartermIOSApp.swift; sourceTree = "<group>"; };
+		F012 /* IOSReminderPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSReminderPanel.swift; sourceTree = "<group>"; };
+		F013 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F014 /* NeartermIOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NeartermIOS.entitlements; sourceTree = "<group>"; };
+		F020 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F021 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Shared/PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
+		F022 /* Nearterm.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.icon; path = Nearterm.icon; sourceTree = "<group>"; };
+		F023 /* MacAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = MacAssets.xcassets; sourceTree = "<group>"; };
+		F024 /* Nearterm.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Nearterm.entitlements; sourceTree = "<group>"; };
+		F031 /* NeartermWidgets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeartermWidgets.swift; sourceTree = "<group>"; };
+		F032 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F033 /* NeartermWidgets.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NeartermWidgets.entitlements; sourceTree = "<group>"; };
+		F041 /* ReminderFilterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderFilterTests.swift; sourceTree = "<group>"; };
+		P001 /* Nearterm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nearterm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		P002 /* Nearterm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nearterm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		P003 /* Nearterm Widgets.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Nearterm Widgets.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		P004 /* NeartermIOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NeartermIOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FW01 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FW02 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FW03 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FW04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7384A3D43029284800D50A80 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				F021 /* PrivacyInfo.xcprivacy */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+		GDIST /* Distribution */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Distribution;
+			sourceTree = "<group>";
+		};
+		GIOS /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				F011 /* NeartermIOSApp.swift */,
+				F012 /* IOSReminderPanel.swift */,
+				F013 /* Info.plist */,
+				F014 /* NeartermIOS.entitlements */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		GMACOS /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				F024 /* Nearterm.entitlements */,
+			);
+			path = macOS;
+			sourceTree = "<group>";
+		};
+		GPRODUCTS /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				P001 /* Nearterm.app */,
+				P002 /* Nearterm.app */,
+				P003 /* Nearterm Widgets.appex */,
+				P004 /* NeartermIOSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		GROOT = {
+			isa = PBXGroup;
+			children = (
+				F001 /* NeartermApp.swift */,
+				F002 /* ReminderPanel.swift */,
+				GSHARED /* Shared */,
+				GMACOS /* macOS */,
+				GIOS /* iOS */,
+				GWIDGETS /* Widgets */,
+				GTESTS /* Tests */,
+				F020 /* Assets.xcassets */,
+				F023 /* MacAssets.xcassets */,
+				F022 /* Nearterm.icon */,
+				GDIST /* Distribution */,
+				GPRODUCTS /* Products */,
+				7384A3D43029284800D50A80 /* Recovered References */,
+			);
+			sourceTree = "<group>";
+		};
+		GSHARED /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				F003 /* ReminderItem.swift */,
+				F004 /* ReminderFilter.swift */,
+				F005 /* ReminderRoute.swift */,
+				F006 /* WidgetSnapshot.swift */,
+				F007 /* ReminderStore.swift */,
+				F008 /* PrivacyInfo.xcprivacy */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		GTESTS /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				F041 /* ReminderFilterTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		GWIDGETS /* Widgets */ = {
+			isa = PBXGroup;
+			children = (
+				F031 /* NeartermWidgets.swift */,
+				F032 /* Info.plist */,
+				F033 /* NeartermWidgets.entitlements */,
+			);
+			path = Widgets;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		T001 /* Nearterm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CL01 /* Build configuration list for PBXNativeTarget "Nearterm" */;
+			buildPhases = (
+				S01 /* Sources */,
+				FW01 /* Frameworks */,
+				R01 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Nearterm;
+			productName = Nearterm;
+			productReference = P001 /* Nearterm.app */;
+			productType = "com.apple.product-type.application";
+		};
+		T002 /* Nearterm iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CL02 /* Build configuration list for PBXNativeTarget "Nearterm iOS" */;
+			buildPhases = (
+				S02 /* Sources */,
+				FW02 /* Frameworks */,
+				R02 /* Resources */,
+				CP01 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D01 /* PBXTargetDependency */,
+			);
+			name = "Nearterm iOS";
+			productName = Nearterm;
+			productReference = P002 /* Nearterm.app */;
+			productType = "com.apple.product-type.application";
+		};
+		T003 /* Nearterm Widgets */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CL03 /* Build configuration list for PBXNativeTarget "Nearterm Widgets" */;
+			buildPhases = (
+				S03 /* Sources */,
+				FW03 /* Frameworks */,
+				R03 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Nearterm Widgets";
+			productName = "Nearterm Widgets";
+			productReference = P003 /* Nearterm Widgets.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		T004 /* NeartermIOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CL04 /* Build configuration list for PBXNativeTarget "NeartermIOSTests" */;
+			buildPhases = (
+				S04 /* Sources */,
+				FW04 /* Frameworks */,
+				R04 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D02 /* PBXTargetDependency */,
+			);
+			name = NeartermIOSTests;
+			productName = NeartermIOSTests;
+			productReference = P004 /* NeartermIOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		PROJ /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2650;
+				LastUpgradeCheck = 2650;
+				TargetAttributes = {
+					T001 = {
+						CreatedOnToolsVersion = 26.5;
+					};
+					T002 = {
+						CreatedOnToolsVersion = 26.5;
+					};
+					T003 = {
+						CreatedOnToolsVersion = 26.5;
+					};
+					T004 = {
+						CreatedOnToolsVersion = 26.5;
+						TestTargetID = T002;
+					};
+				};
+			};
+			buildConfigurationList = CL00 /* Build configuration list for PBXProject "Nearterm" */;
+			compatibilityVersion = "Xcode 16.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = GROOT;
+			productRefGroup = GPRODUCTS /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				T001 /* Nearterm */,
+				T002 /* Nearterm iOS */,
+				T003 /* Nearterm Widgets */,
+				T004 /* NeartermIOSTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		R01 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B111 /* MacAssets.xcassets in Resources */,
+				B112 /* Nearterm.icon in Resources */,
+				B009 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		R02 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B108 /* Assets.xcassets in Resources */,
+				B109 /* PrivacyInfo.xcprivacy in Resources */,
+				B110 /* Nearterm.icon in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		R03 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B207 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		R04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		S01 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B001 /* NeartermApp.swift in Sources */,
+				B002 /* ReminderPanel.swift in Sources */,
+				B003 /* ReminderItem.swift in Sources */,
+				B004 /* ReminderFilter.swift in Sources */,
+				B005 /* ReminderRoute.swift in Sources */,
+				B006 /* WidgetSnapshot.swift in Sources */,
+				B007 /* ReminderStore.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		S02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B101 /* NeartermIOSApp.swift in Sources */,
+				B102 /* IOSReminderPanel.swift in Sources */,
+				B103 /* ReminderItem.swift in Sources */,
+				B104 /* ReminderFilter.swift in Sources */,
+				B105 /* ReminderRoute.swift in Sources */,
+				B106 /* WidgetSnapshot.swift in Sources */,
+				B107 /* ReminderStore.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		S03 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B201 /* NeartermWidgets.swift in Sources */,
+				B202 /* ReminderItem.swift in Sources */,
+				B203 /* ReminderFilter.swift in Sources */,
+				B204 /* ReminderRoute.swift in Sources */,
+				B205 /* WidgetSnapshot.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		S04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B301 /* ReminderFilterTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D01 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = T003 /* Nearterm Widgets */;
+			targetProxy = PX01 /* PBXContainerItemProxy */;
+		};
+		D02 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = T002 /* Nearterm iOS */;
+			targetProxy = PX02 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C011 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = Nearterm;
+				CODE_SIGN_ENTITLEMENTS = macOS/Nearterm.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = XD99NS7FS6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios;
+				PRODUCT_NAME = Nearterm;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		C012 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = Nearterm;
+				CODE_SIGN_ENTITLEMENTS = macOS/Nearterm.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = XD99NS7FS6;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios;
+				PRODUCT_NAME = Nearterm;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		C021 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = Nearterm;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = iOS/NeartermIOS.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XD99NS7FS6;
+				ENABLE_TESTABILITY = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios;
+				PRODUCT_MODULE_NAME = NeartermIOS;
+				PRODUCT_NAME = Nearterm;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C022 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = Nearterm;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = iOS/NeartermIOS.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XD99NS7FS6;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios;
+				PRODUCT_MODULE_NAME = NeartermIOS;
+				PRODUCT_NAME = Nearterm;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C031 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = Widgets/NeartermWidgets.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XD99NS7FS6;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios.widgets;
+				PRODUCT_NAME = "Nearterm Widgets";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C032 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = Widgets/NeartermWidgets.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XD99NS7FS6;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios.widgets;
+				PRODUCT_NAME = "Nearterm Widgets";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C041 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nearterm.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nearterm";
+			};
+			name = Debug;
+		};
+		C042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brettmcm.nearterm.ios.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nearterm.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nearterm";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CL00 /* Build configuration list for PBXProject "Nearterm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C001 /* Debug */,
+				C002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CL01 /* Build configuration list for PBXNativeTarget "Nearterm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C011 /* Debug */,
+				C012 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CL02 /* Build configuration list for PBXNativeTarget "Nearterm iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C021 /* Debug */,
+				C022 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CL03 /* Build configuration list for PBXNativeTarget "Nearterm Widgets" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C031 /* Debug */,
+				C032 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CL04 /* Build configuration list for PBXNativeTarget "NeartermIOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C041 /* Debug */,
+				C042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = PROJ /* Project object */;
+}
