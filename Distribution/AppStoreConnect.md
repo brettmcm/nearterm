@@ -15,9 +15,9 @@
 
 ## External beta copy
 
-**Description:** Nearterm is a quiet, focused view of Apple Reminders. See what is due today and what is coming in the next week in one simple list. Complete or reschedule tasks without losing your place.
+**Description:** Nearterm is a quiet daily brief for your calendar and Apple Reminders. See the events remaining today alongside the tasks that need your attention. Complete or reschedule tasks without losing your place.
 
-**Review notes:** Nearterm requires Full Access to Reminders. To test, create dated reminders in Apple Reminders, then launch Nearterm and grant access. No account or demo credentials are required. Widgets read an on-device snapshot updated by the app and refresh on a best-effort schedule.
+**Review notes:** Nearterm requests Full Access to Reminders and Calendar to assemble an on-device daily brief. To test, create a dated reminder in Apple Reminders and a timed event in Calendar, then launch Nearterm and grant access. Calendar access is optional; when it is unavailable, the event summary remains empty. No account or demo credentials are required. Widgets read an on-device snapshot updated by the app and refresh on a best-effort schedule.
 
 ## Required from the account owner
 
